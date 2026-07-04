@@ -6,9 +6,9 @@ local hl = vim.api.nvim_set_hl
 
 -- Color palette
 local background = '#171d1d'
-local primary = '#90a2a2'
-local violet = '#8590a2'
-local green = '#8ca290'
+local primary = '#94a6a6'
+local violet = '#8792a4'
+local green = '#8ea492'
 local red = '#9f7f7b'
 local cursor_line = '#1b2222'
 local line_number = '#4c605e'
