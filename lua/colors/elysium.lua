@@ -5,7 +5,7 @@ vim.g.colors_name = 'elysium'
 local hl = vim.api.nvim_set_hl
 
 -- Color palette
-local background = '#171d1d'
+local background = '#161c1c'
 local primary = '#96a8a8'
 local violet = '#8b96a8'
 local green = '#92a896'
